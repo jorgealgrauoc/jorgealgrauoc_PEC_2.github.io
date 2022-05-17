@@ -1,3 +1,3 @@
-# PEC 2 Visualización de datos
+# PEC 3 Visualización de datos
 
-Visualizaciones de la PEC 2 de la asignatura visualización de datos
+Storytelling de la PEC 3 de la asignatura visualización de datos
