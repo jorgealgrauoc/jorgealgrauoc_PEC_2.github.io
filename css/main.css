@@ -5275,3 +5275,4 @@ a.credit {
       animation: moveToLeft 5s linear infinite;
       animation-delay: 1000ms;
     }
+hr { display: block; margin-before: 0.5em; margin-after: 0.5em; margin-start: auto; margin-end: auto; overflow: hidden; border-style: inset; border-width: 1px;}
